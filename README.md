@@ -166,16 +166,16 @@ http://localhost:5000
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home.PNG)
 
 ### Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/login.PNG)
 
 ### Register Page
-![Register Page](./screenshots/register.png)
+![Register Page](./screenshots/register.PNG)
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.PNG)
 
 ---
 
